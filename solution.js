@@ -10,5 +10,4 @@ const server = http.createServer((req, res) => {
   }
 });
 
-// Запускаем сервер
 server.listen(port);
